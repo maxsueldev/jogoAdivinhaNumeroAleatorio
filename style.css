@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.explicacaoJogo {
+    padding: 20px; 
+}
+
+.value {
+    margin-right: 10px;
+}
+
+p.dica {
+    padding: 20px 0;
+    margin: 30px 80px;
+}
